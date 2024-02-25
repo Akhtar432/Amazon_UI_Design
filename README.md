@@ -1,1 +1,2 @@
-# Amazon-clone
+# Amazon-Ui-Design
+Use HTML & CSS
